@@ -32,7 +32,9 @@ Gosto de unir código e design para criar soluções funcionais e visualmente at
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorHlandim&locale=pt-br&mode=weekly&theme=omni&hide_border=true&border_radius=50" height="350" alt="streak graph"/> <br>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=@VictorHlandim&theme=omni&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=750&card_height=250)](https://git.io/streak-stats)
+  
 </div>
 
 
