@@ -80,13 +80,18 @@ HABILIDADES
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/victor-hugo-523338403?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/victor-hugo-523338403?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">  
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> <br>
   </a>
+
   <a href="https://www.instagram.com/cawf.fe?igsh=bjV4Y3o2c3RybjUz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> <br>
   </a>
+
+
   <a href="victorhugoa.landim@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+
+
 </div>
